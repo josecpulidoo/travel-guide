@@ -74,3 +74,4 @@
 
 -[khasanovsm](https://github.com/khasanovsm)
 -[@Dorin-Ciora](https://github.com/dorin-ciora)
+-[@josecpulidoo](https://github.com/josecpulidoo)
